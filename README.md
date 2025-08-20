@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="350em" src="./img/banner.webp"/>
+  <img src="./img/banner.webp"/>
 </div>
 
 <div align="center">
-  <img height="350em" src="./img/banner-teste.gif"/>
+  <img src="./img/banner-teste.gif"/>
 </div>
 
 
