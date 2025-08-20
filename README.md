@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="350em" src="./assets/banner.webp"/>
+  <img height="350em" src="./img/banner.webp"/>
+</div>
+
+<div align="center">
+  <img height="350em" src="./img/banner-teste.gif"/>
 </div>
 
 
