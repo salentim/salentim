@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./img/banner.webp"/>
-</div>
-
-<div align="center">
   <img src="./img/banner-teste.gif"/>
 </div>
 
+<div align="center">
+  <img src="./img/banner.webp"/>
+</div>
 
 <!--
 **salentim/salentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
