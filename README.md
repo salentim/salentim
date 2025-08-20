@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**`Teste de personalização do perfil no Github`**
+
 <div align="center">
   <img src="./img/banner-teste.gif"/>
 </div>
@@ -9,6 +11,8 @@
 <div align="center">
   <img src="./img/banner.webp"/>
 </div>
+
+**`As imagens estão sendo usadas temporariamente para testes`**
 
 <!--
 **salentim/salentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
