@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="350em" src="./assets/banner-teste.gif"/>
+  <img height="350em" src="./assets/banner.webp"/>
 </div>
 
 
