@@ -4,6 +4,8 @@
   <img src="./img/banner-teste.gif"/>
 </div>
 
+**`Designer (Developer/FrontEnd/UserExperience)`**
+
 <div align="center">
   <img src="./img/banner.webp"/>
 </div>
