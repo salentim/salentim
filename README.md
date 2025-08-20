@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img height="350em" src="./assets/banner-teste.gif"/>
+</div>
+
+
 <!--
 **salentim/salentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
